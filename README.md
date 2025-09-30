@@ -1,6 +1,6 @@
-<!-- Profile Image -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://your-image-url-here.com/image.png" alt="Omkar's Profile Image" width="200"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQFqLq77YAos7g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1713144519479?e=2147483647&v=beta&t=uQu0xSmHB5BwjLGiVzsosy3lOmOYVlm0Td9pfNh1GWA" alt="Omkar's Profile Banner" width="1000"/>
 </p>
 
 # 💫 About Me:
